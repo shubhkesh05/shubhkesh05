@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="center">
-  <img width="320" src="https://user-images.githubusercontent.com/55389276/140866485-8b1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding">
+  <img width="320" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejk1Yzkzd2RzdGJta2gzbHIyczRiZTlxYnRqdDhlaDM1OXN3cmJ4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwbZnTftCXVocKzfxR/giphy.gif" alt="coding">
 </p>
 
 <p align="left">
